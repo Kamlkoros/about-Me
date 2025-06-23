@@ -2,4 +2,4 @@
 
 About Me Page
 
-![Uploading Simulator Screenshot - iPhone 16 Plus - 2025-06-23 at 15.05.52.png…]()
+![Image](https://github.com/user-attachments/assets/49d87c82-d8cb-47d9-ac5f-53ef1dbd0601)
